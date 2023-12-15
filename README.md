@@ -1,0 +1,1 @@
+A URL shrinker website using Node.js, where users can shorten long URLs into compact, easy-to-share links. The website will feature a simple and user-friendly interface for both shortening and expanding URLs. This project will leverage Node.js for server-side development, along with a database to store mappings between original and shortened URLs.
